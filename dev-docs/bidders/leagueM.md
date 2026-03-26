@@ -30,11 +30,3 @@ privacy_sandbox: no
 | `pid`       | required | Placement ID                | `0e232769e6f71d291ee7dbc9d157cf84` | `string`  |
 | `env`       | optional | Environment name            | `leagueM`                          | `string`  |
 | `ext`       | optional | Specific integration config | `{}`                               | `object`  |
-
-### Prebid Server Bid Params
-
-{: .table .table-bordered .table-striped }
-| Name        | Scope    | Description                 | Example                            | Type      |
-|-------------|----------|-----------------------------|------------------------------------|-----------|
-| `pid`       | required | Placement ID                | `0e232769e6f71d291ee7dbc9d157cf84` | `string`  |
-| `env`       | required | Environment name            | `leagueM`                          | `string`  |
